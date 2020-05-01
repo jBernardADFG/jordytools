@@ -1,11 +1,11 @@
 Package: jordytools
 Type: Package
-Title: What the package does (short line)
+Title: jordytools
 Version: 1.0
 Date: 2020-04-17
 Author: Jordy Bernard
 Maintainer: Complain to <jordy.bernard@alaska.gov>
-Description: A grab bag of tools to help with package development
+Description: A grab bag of useful R functions
 License: MIT
 RoxygenNote: 7.1.0
 Encoding: UTF-8
